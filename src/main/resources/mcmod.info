@@ -1,0 +1,18 @@
+[
+{
+    "modid": "LetsModReboot",
+    "name": "Lets Mod Reboot",
+    "description": "Basic Description to be Updated Later",
+    "version": "1.0",
+    "mcversion": "1.7.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "WarMachine396" ],
+    "credits": "To be updated later",
+    "logoFile": "",
+    "screenshots": [ ],
+    "parent":"",
+    "dependencies": [ ]
+
+}
+]
